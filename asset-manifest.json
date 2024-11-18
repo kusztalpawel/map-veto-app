@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/map-veto-app/static/css/main.1817ccfc.css",
+    "main.js": "/map-veto-app/static/js/main.61fa08b0.js",
+    "static/js/453.d2f692ad.chunk.js": "/map-veto-app/static/js/453.d2f692ad.chunk.js",
+    "static/media/vertigo.png": "/map-veto-app/static/media/vertigo.30a28db10d3ad851d9fc.png",
+    "static/media/ancient.png": "/map-veto-app/static/media/ancient.2c7aae8070320841f0e6.png",
+    "static/media/italy.png": "/map-veto-app/static/media/italy.ddc81a31df836148796e.png",
+    "static/media/dust2.png": "/map-veto-app/static/media/dust2.76074ec5f3376e2a907b.png",
+    "static/media/overpass.png": "/map-veto-app/static/media/overpass.a0ff5d1ccf2d842c0517.png",
+    "static/media/nuke.png": "/map-veto-app/static/media/nuke.5e29ad96abf433be0081.png",
+    "static/media/anubis.png": "/map-veto-app/static/media/anubis.9cb58b52ef005eb5f9ea.png",
+    "static/media/mirage.png": "/map-veto-app/static/media/mirage.52bfa72d9e1d6618571c.png",
+    "static/media/inferno.png": "/map-veto-app/static/media/inferno.3ddd399a1eadbf0ecd04.png",
+    "static/media/default.png": "/map-veto-app/static/media/default.84415a1a21e363df0ba3.png",
+    "static/media/background.png": "/map-veto-app/static/media/background.5c9b561c9a58556da9f1.png",
+    "static/media/t-patch-small.png": "/map-veto-app/static/media/t-patch-small.df2042c61b6bce6a544c.png",
+    "static/media/ct-patch-small.png": "/map-veto-app/static/media/ct-patch-small.3d140f533d0e774d841d.png",
+    "static/media/t-patch-small-off.png": "/map-veto-app/static/media/t-patch-small-off.8216cd6fa8aabd2fcfc1.png",
+    "static/media/ct-patch-small-off.png": "/map-veto-app/static/media/ct-patch-small-off.5f6fc7c7a97128fc3274.png",
+    "static/media/ct-patch-small-chose.png": "/map-veto-app/static/media/ct-patch-small-chose.501eea8a9e94b87fc3b5.png",
+    "static/media/t-patch-small-chose.png": "/map-veto-app/static/media/t-patch-small-chose.4910c1306ea136c8c583.png",
+    "static/media/email_icon.png": "/map-veto-app/static/media/email_icon.b27e0971fe9136b04bb0.png",
+    "static/media/cross_icon.png": "/map-veto-app/static/media/cross_icon.926da7c5e68069c508ef.png",
+    "index.html": "/map-veto-app/index.html",
+    "main.1817ccfc.css.map": "/map-veto-app/static/css/main.1817ccfc.css.map",
+    "main.61fa08b0.js.map": "/map-veto-app/static/js/main.61fa08b0.js.map",
+    "453.d2f692ad.chunk.js.map": "/map-veto-app/static/js/453.d2f692ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1817ccfc.css",
+    "static/js/main.61fa08b0.js"
+  ]
+}
