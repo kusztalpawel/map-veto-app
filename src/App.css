@@ -1,0 +1,67 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: #373957;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./Images/background.png");
+  background-size: cover;
+  font-family: 'Exo 2';
+}
+
+.VetoBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #666483;
+  width: 100%;
+  height: 75%;
+  text-align: center;
+  color: rgb(228, 228, 228);
+  box-shadow: 1px 15px 10px #333247;
+  background-image: linear-gradient(to bottom right, #666483, #373957);
+}
+
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.Git {
+  display: block;
+  text-align: center;
+  height: 80%;
+  color: black;
+}
+
+.GitImage {
+  height: 100%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  gap: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+  margin: 0px;
+  width: 100vw;
+  height: 30px;
+  background-color: #da7b08;
+}
+
+button {
+  font-family: "Exo 2";
+}
+
+input {
+  font-family: "Exo 2";
+}

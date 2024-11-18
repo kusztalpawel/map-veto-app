@@ -1,0 +1,123 @@
+.Teams {
+  display: flex;
+  width: 100%;
+  height: 15%;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.TeamsTitle {
+  height: 10%;
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+.StartVetoButton {
+  display: flex;
+  width: 200px;
+  height: 11%;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  text-wrap: nowrap;
+  text-overflow:ellipsis;
+}
+
+.TeamInput {
+  margin: auto;
+  text-align: center;
+  width: 350px;
+  height: 2rem;
+  border: 1px solid #e4e4e4;
+  background-color: #45435e;
+  border-radius: 5px;
+  color: #e4e4e4;
+  font-size: 1.1rem;
+}
+
+.TeamInput::placeholder{
+  color: #e4e4e480;
+}
+
+.TeamInput:invalid{
+  border: 1px solid #bd0000;
+  color: #ff2c2c;
+  border-radius: 5px;
+}
+
+.StartVetoButton button{
+  width: 100%;
+  height: 100%;
+  color: #13141f;
+  background-color: #e4e4e4;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 1.3em;
+  font-weight: 700;
+  box-shadow: 2px 2px 5px #333247;
+  transition: scale 0.2s;
+}
+
+.StartVetoButton button:hover{
+  background-color: #333247;
+  color: #e4e4e4;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.StartVetoButton button:active{
+  scale: 95%;
+}
+
+.TeamNameError {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  gap: 10px;
+  top: 50%;
+  left: 50%;  
+  transform: translate(-50%, -50%);
+  height: 20%;
+  width: 20%;
+  background-color: #e4e4e4;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0);
+}
+
+.TeamError {
+  width: 90%;
+  color: red;
+  min-height: 25px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.ErrorPopUpButton{
+  line-height: 0px;
+  background-color: #da7b08;
+  border: 0px;
+  color: black;
+  height: 30%;
+  border-radius: 5px;
+  transition: scale 0.2s;
+  padding: 20px;
+  box-shadow: 1px 1px 5px #a1a1a1;
+  font-weight: 600;
+}
+
+.ErrorPopUpButton:hover{
+  background-color: #f09e3a;
+}
+
+.ErrorPopUpButton:active{
+  scale: 95%;
+}
+
+.ErrorPopUpButtonDiv {
+  display: flex;
+  height: 30%;
+  justify-content: center;
+  align-items: center;
+}

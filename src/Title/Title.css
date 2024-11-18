@@ -1,0 +1,81 @@
+.Buttons {
+  display: flex;
+  height: 40%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+
+.Title{
+  height: 20%;
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.VetoText {
+  display: flex;
+  align-items: center;
+  height: 20%;
+  padding: 0 7% 0 7%;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.BestOfButton {
+  width: 25%;
+  height: 35%;
+  color: #13141f;
+  background-color: #e4e4e4;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 1.3em;
+  font-weight: 700;
+  box-shadow: 2px 2px 5px #333247;
+  transition: scale 0.2s;
+}
+  
+.BestOfButton:hover {
+  width: 25%;
+  height: 35%;
+  background-color: #333247;
+  color: #e4e4e4;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.BestOfButton:active {
+  scale: 95%;
+}
+
+.CustomizeButton{
+  height: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+  transition: scale 0.2s;
+}
+  
+.CustomizeButton button{
+  line-height: 0px;
+  background-color: #da7b08;
+  border: 0px;
+  color: black;
+  height: 30%;
+  border-radius: 5px;
+  transition: scale 0.2s;
+  padding: 20px;
+  box-shadow: 1px 1px 5px #3c3b53;
+}
+  
+.CustomizeButton button:hover{
+  background-color: #da7b08;
+  background-image: linear-gradient(to right, #da7b08, #b34c07, #da7b08);
+}
+
+.CustomizeButton button:active{
+  scale: 95%;
+}
