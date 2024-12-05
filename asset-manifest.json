@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/map-veto-app/static/css/main.fff7cfcb.css",
-    "main.js": "/map-veto-app/static/js/main.787c37ef.js",
+    "main.js": "/map-veto-app/static/js/main.e5fb61a3.js",
     "static/js/453.d2f692ad.chunk.js": "/map-veto-app/static/js/453.d2f692ad.chunk.js",
     "static/media/ancient.png": "/map-veto-app/static/media/ancient.66edf3dead54201178ae.png",
     "static/media/italy.png": "/map-veto-app/static/media/italy.8deaee10e27e561b7c3b.png",
@@ -12,6 +12,7 @@
     "static/media/nuke.png": "/map-veto-app/static/media/nuke.655287da2d44b8b6de92.png",
     "static/media/overpass.png": "/map-veto-app/static/media/overpass.b99734ba8c11b8216bca.png",
     "static/media/mirage.png": "/map-veto-app/static/media/mirage.5c7b10595159b9332254.png",
+    "static/media/train.png": "/map-veto-app/static/media/train.81e9abac225d3c52c9c9.png",
     "static/media/default.png": "/map-veto-app/static/media/default.7cd6eb3505db7d041820.png",
     "static/media/background.png": "/map-veto-app/static/media/background.34ae31c86239c7f51963.png",
     "static/media/t-patch-small.png": "/map-veto-app/static/media/t-patch-small.0b2c0402165d9748994d.png",
@@ -20,11 +21,11 @@
     "static/media/t-patch-small-off.png": "/map-veto-app/static/media/t-patch-small-off.d2640ab3465e5e5056fa.png",
     "index.html": "/map-veto-app/index.html",
     "main.fff7cfcb.css.map": "/map-veto-app/static/css/main.fff7cfcb.css.map",
-    "main.787c37ef.js.map": "/map-veto-app/static/js/main.787c37ef.js.map",
+    "main.e5fb61a3.js.map": "/map-veto-app/static/js/main.e5fb61a3.js.map",
     "453.d2f692ad.chunk.js.map": "/map-veto-app/static/js/453.d2f692ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff7cfcb.css",
-    "static/js/main.787c37ef.js"
+    "static/js/main.e5fb61a3.js"
   ]
 }
