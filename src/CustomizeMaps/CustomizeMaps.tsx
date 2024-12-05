@@ -8,6 +8,7 @@ import Italy from '../Images/Maps/italy.png';
 import Mirage from '../Images/Maps/mirage.png'
 import Nuke from '../Images/Maps/nuke.png'
 import Overpass from '../Images/Maps/overpass.png';
+import Train from '../Images/Maps/train.png';
 import Vertigo from '../Images/Maps/vertigo.png';
 import Default from '../Images/Maps/default.png';
 
@@ -21,6 +22,7 @@ const CustomizeMaps = ({isActive, showTitle, setMaps, maps} : {isActive: boolean
                                                       {name: "Mirage", img: Mirage}, 
                                                       {name: "Nuke", img: Nuke},
                                                       {name: "Overpass", img: Overpass}, 
+                                                      {name: "Train", img: Train},
                                                       {name: "Vertigo", img: Vertigo}];
 
   const [map, setMap] = useState<{name: string; img: string;}[]>(maps);
